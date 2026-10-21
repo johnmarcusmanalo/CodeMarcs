@@ -28,13 +28,6 @@ I'm on an exciting journey learning web development—building skills in Python,
 
 ---
 
-## 📚 Featured Projects
-
-- [30-days-python](https://github.com/CodeMarcs/30-days-python)
-- [FlashPen](https://github.com/CodeMarcs/FlashPen)
-- [John-Marcus-Manalo](https://github.com/CodeMarcs/John-Marcus-Manalo)
-- [repo-pre](https://github.com/CodeMarcs/repo-pre)
-- [002](https://github.com/CodeMarcs/002)
 
 ---
 
